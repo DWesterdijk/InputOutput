@@ -19,4 +19,4 @@ in te doen als het allemaal gaat lukken.
 * [Onderzoeks document](https://github.com/Feaxxae/InputOutput/blob/master/P01_-_Onderzoek_finished.docx)
 * [Ontwerp Document](https://github.com/Feaxxae/InputOutput/blob/master/P02_-_Ontwerp_document.docx)
 * [Testrapportage]()
-* [Presentatie]()
+* [Presentatie](https://docs.google.com/presentation/d/1GVmtUNOr_fLr1H7ricSaqrO0ZFGhog8wFKa2i_NuIBs/edit?usp=sharing)
