@@ -21,3 +21,4 @@ in te doen als het allemaal gaat lukken.
 * [Planning](https://docs.google.com/spreadsheets/d/115Adr5vyZ8tvSi0QuCjGZuh2jvQ_qRMPlVtBMqE7ACI/edit#gid=0)
 * [Testrapportage](https://github.com/Feaxxae/InputOutput/blob/master/Test%20rapportage.docx)
 * [Presentatie](https://github.com/Feaxxae/InputOutput/blob/master/In.pptx)
+* [Trello](https://trello.com/b/Ucl1Gyge/main-bord)
