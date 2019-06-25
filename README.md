@@ -18,5 +18,5 @@ in te doen als het allemaal gaat lukken.
 
 * [Onderzoeks document](https://github.com/Feaxxae/InputOutput/blob/master/P01_-_Onderzoek_finished.docx)
 * [Ontwerp Document](https://github.com/Feaxxae/InputOutput/blob/master/P02_-_Ontwerp_document.docx)
-* [Testrapportage]()
+* [Testrapportage](https://github.com/Feaxxae/InputOutput/blob/master/Test%20rapportage.docx)
 * [Presentatie](https://github.com/Feaxxae/InputOutput/blob/master/In.pptx)
