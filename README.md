@@ -10,6 +10,6 @@ Team
 ## Portfolio
 
 * [Onderzoeks document](https://github.com/Feaxxae/InputOutput/blob/master/P01_-_Onderzoek_finished.docx)
-* [Ontwerp Document]()
+* [Ontwerp Document](https://github.com/Feaxxae/InputOutput/blob/master/P02_-_Ontwerp_document.docx)
 * [Testrapportage]()
 * [Presentatie]()
